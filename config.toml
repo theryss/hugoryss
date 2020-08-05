@@ -1,7 +1,7 @@
-baseURL = "https://example.com"
+baseURL = "https://blog.theryss.gq"
 languageCode = "en"
 defaultContentLanguage = "en"
-title = "KeepIt"
+title = "Hugo Ryss"
 theme = "KeepIt"
 
 paginate = 12
@@ -40,9 +40,9 @@ disqusShortname = "yourdiscussshortname"
     weight = 4
 
 [params]
-    since = 2012
-    author = "Fastbyte01"               # Author's name
-    subtitle = "A Hugo theme"       # Subtitle
+    since = 2020
+    author = "theryss"               # Author's name
+    subtitle = "theryss hugo blog"       # Subtitle
     cdn_url = ""           # Base CDN URL
     home_mode = "" # post or other
 
@@ -53,7 +53,7 @@ disqusShortname = "yourdiscussshortname"
     baidu_verification = ""
 
     avatar = "/images/me/avatar.jpeg" #comment it to use gravatar
-    socialShare = true
+    socialShare = false
 
     description = "" # site description
     keywords = "" # site keywords
@@ -140,10 +140,10 @@ Linkedin = true
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
 
 [author]
-  name = "Fastbyte01"
+  name = "theryss"
 
   [params.publisher]
-    name = "Fastbyte01"
+    name = "theryss"
 
     [params.publisher.logo]
       url = "logo.png"
