@@ -53,11 +53,7 @@ disqusShortname = "yourdiscussshortname"
     baidu_verification = ""
 
     avatar = "/images/me/avatar.jpeg" #comment it to use gravatar
-<<<<<<< HEAD
     socialShare = false
-=======
-    socialShare = true
->>>>>>> 5016f6ae335e999806a48e53c0575d39f2bb759b
 
     description = "" # site description
     keywords = "" # site keywords
