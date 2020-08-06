@@ -1,6 +1,8 @@
 +++
+category = "taxonomy"
 content = ""
 date = 2020-08-05T18:00:00Z
+tag = "tax"
 title = "Hu(go) новое начало"
 
 +++
