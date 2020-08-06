@@ -1,8 +1,9 @@
 +++
 category = "todos"
+content = "разобраться с тегами и категориями"
 date = 2020-08-06T22:04:00Z
-draft = true
 tag = "todos"
 title = "todo"
 
 +++
+* разобраться с тегами и категориями
