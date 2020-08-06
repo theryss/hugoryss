@@ -8,5 +8,15 @@ fields:
 - type: datetime
   name: date
   label: date
+- name: category
+  type: text
+  config:
+    required: false
+  label: category
+- name: tag
+  type: text
+  config:
+    required: false
+  label: tag
 pages:
 - content/posts/hu-go.md
