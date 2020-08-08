@@ -9,5 +9,6 @@ fields:
   name: date
   label: date
 pages:
+- content/#notes/note-one.md
 - content/posts/hu-go.md
 - content/posts/todo.md
