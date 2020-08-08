@@ -10,3 +10,4 @@ fields:
   label: date
 pages:
 - content/posts/hu-go.md
+- content/posts/todo.md
