@@ -6,12 +6,14 @@ fields:
   name: title
   label: title
 - name: toodos
-  type: list
-  config:
-    use_select: false
-    min: 
-    max: 
+  type: field_group
+  config: {}
   label: toodos
+- name: toodos2
+  type: include
+  config: {}
+  template: blogpost
+  label: toodos2
 pages:
 - content/posts/hu-go.md
 - content/posts/note-one.md
