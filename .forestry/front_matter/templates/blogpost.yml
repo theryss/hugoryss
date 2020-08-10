@@ -34,4 +34,5 @@ fields:
 pages:
 - content/posts/hu-go.md
 - content/posts/note-one.md
+- content/posts/post fold/new-template.md
 - content/posts/todo.md
