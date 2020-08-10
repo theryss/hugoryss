@@ -5,15 +5,19 @@ fields:
 - type: text
   name: title
   label: title
-- name: toodos
-  type: field_group
-  config: {}
-  label: toodos
-- name: toodos2
-  type: include
-  config: {}
-  template: blogpost
-  label: toodos2
+- name: tags
+  type: tag_list
+  default: []
+  label: tags
+- name: date
+  type: datetime
+  label: date
+  description: ''
+  config:
+    required: false
+    date_format: DD/MM/YYYY
+    time_format: hh:mm
+    display_utc: false
 pages:
 - content/posts/hu-go.md
 - content/posts/note-one.md
