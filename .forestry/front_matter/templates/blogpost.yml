@@ -18,6 +18,18 @@ fields:
     date_format: DD/MM/YYYY
     time_format: hh:mm
     display_utc: false
+- name: catlist
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: posts
+      file: 
+      path: 
+  label: catlist
 pages:
 - content/posts/hu-go.md
 - content/posts/note-one.md
