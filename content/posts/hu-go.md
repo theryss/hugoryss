@@ -1,6 +1,8 @@
 +++
+catlist = ""
 content = ""
 date = 2020-08-05T18:00:00Z
+tags = ["templ"]
 title = "Hu(go) новое начало"
 
 +++
