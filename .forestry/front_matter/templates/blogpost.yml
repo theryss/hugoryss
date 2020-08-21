@@ -33,5 +33,4 @@ fields:
   label: catlist
 pages:
 - content/posts/hu-go.md
-- content/posts/note-one.md
 - content/posts/todo.md
