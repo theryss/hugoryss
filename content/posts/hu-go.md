@@ -9,3 +9,4 @@ title = "Hu(go) новое начало"
 Довольно любопытный и многообещающий проект.
 
 and so on..
+pushed from android )
