@@ -19,3 +19,5 @@ fields:
     date_format: DD/MM/YYYY
     time_format: hh:mm
     display_utc: false
+pages:
+- content/posts/add-a-static-directory-to-an-eleventy-project.md
