@@ -13,7 +13,7 @@ The simplest way to setup a static folder is to use the manual passthrough file 
 But what we really want is to copy everything in static directly to _site. To do that we can use an option in which we change the output directory. That code looks like this:  
 ``.eleventy.js``
 
-`module.exports = function (eleventyConfig) { eleventyConfig.addPassthroughCopy({ static: "/" })}`
+    module.exports = function (eleventyConfig) { eleventyConfig.addPassthroughCopy({ static: "/" })}
 
 This tells Eleventy to take everything in the **\`static/\`** directory and copy it to the root of your build directory (e.g. \`static/sitemap.xml\` to \`_site/sitemap.xml\`).
 
