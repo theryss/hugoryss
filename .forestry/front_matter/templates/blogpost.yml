@@ -21,4 +21,5 @@ fields:
     display_utc: false
 pages:
 - content/posts/add-a-static-directory-to-an-eleventy-project.md
+- content/posts/проблемы-с-доставкой-в-прод.md
 - content/posts/тест-тьюринга-наоборот.md
