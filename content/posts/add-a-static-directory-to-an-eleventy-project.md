@@ -1,5 +1,6 @@
 +++
 date = 2020-09-16T06:50:00Z
+draft = true
 tags = []
 title = "Add a Static Directory to an Eleventy Project"
 
