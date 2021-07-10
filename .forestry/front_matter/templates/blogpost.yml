@@ -1,7 +1,7 @@
 ---
 label: blogpost
 hide_body: false
-display_field: title
+display_field: maintxt
 fields:
 - type: text
   name: title
