@@ -19,6 +19,16 @@ fields:
     date_format: DD/MM/YYYY
     time_format: hh:mm
     display_utc: false
+- name: maintxt
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: maintxt
+  description: 'main '
 pages:
 - content/posts/add-a-static-directory-to-an-eleventy-project.md
 - content/posts/bad-trip.md
