@@ -4,7 +4,6 @@ tags = []
 title = "Add a Static Directory to an Eleventy Project"
 
 +++
-
 **# Add a Static Directory to an Eleventy Project**  
 Aug 17, 2020 Eleventy
 
